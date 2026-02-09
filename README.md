@@ -47,4 +47,5 @@ https://automationexercise.com/
 ---
 
 ## 📷 Project Screenshot
-![Trello Board](Automation Exercise.png)
+##  Board Screenshot
+![Trello Board](AutomationExercise.PNG)
