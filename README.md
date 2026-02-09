@@ -35,7 +35,7 @@ https://automationexercise.com/
 ---
 
 ## Test Scenario Summary
-|Module      |Scenarios |
+| Module      | Scenarios |
 |-------------|-----------|
 | Signup      | 11        |
 | Login       | 10        |
