@@ -3,7 +3,7 @@
 This project focuses on **Manual Testing** for the Automation Exercise E-commerce website.
 The goal is to practice writing **Test Scenarios (Valid & Invalid)** based on real user flows.
 
- Website under test:
+Website under test:
 https://automationexercise.com/
 
 ---
@@ -45,7 +45,5 @@ https://automationexercise.com/
 | Payment     | 15        |
 
 ---
-
-## 📷 Project Screenshot
 ##  Board Screenshot
 ![Trello Board](trello-board.png)
