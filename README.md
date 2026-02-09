@@ -16,7 +16,7 @@ https://automationexercise.com/
 
 ---
 
-## 📋 Covered Modules
+## Covered Modules
 - Signup
 - Login
 - Contact Us
@@ -26,7 +26,7 @@ https://automationexercise.com/
 
 ---
 
-## ✅ What Was Done
+## What Was Done
 - Created Test Scenarios for each module
 - Covered both Valid & Invalid scenarios
 - Focused on real user behavior
@@ -34,9 +34,9 @@ https://automationexercise.com/
 
 ---
 
-## 📊 Test Scenario Summary
-| Module        | Scenarios |
-|--------------|-----------|
+## Test Scenario Summary
+| Module      | Scenarios |
+|-------------|-----------|
 | Signup      | 11        |
 | Login       | 10        |
 | Contact Us  | 13        |
