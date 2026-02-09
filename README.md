@@ -1,14 +1,14 @@
 # Automation Exercise – Manual Testing Project
-## 📌 Project Overview
+## Project Overview
 This project focuses on **Manual Testing** for the Automation Exercise E-commerce website.
 The goal is to practice writing **Test Scenarios (Valid & Invalid)** based on real user flows.
 
-🔗 Website under test:
+ Website under test:
 https://automationexercise.com/
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Manual Testing
 - Test Scenario Design
 - Trello (for organizing and tracking scenarios)
