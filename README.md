@@ -48,4 +48,4 @@ https://automationexercise.com/
 
 ## 📷 Project Screenshot
 ##  Board Screenshot
-![Trello Board](AutomationExercise.png)
+![Trello Board](trello-board.png)
