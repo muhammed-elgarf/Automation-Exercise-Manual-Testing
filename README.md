@@ -45,5 +45,12 @@ https://automationexercise.com/
 | Payment     | 15        |
 
 ---
+
+##  Trello Board
+View-only Trello board:
+[https://trello.com/b/HZYFblxp/automation-exercise-test-scenarios]
+
+---
+
 ##  Board Screenshot
 ![Trello Board](trello-board.png)
